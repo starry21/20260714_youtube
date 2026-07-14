@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+plotly
+wordcloud
+matplotlib
+Pillow
